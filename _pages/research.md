@@ -1,5 +1,6 @@
 ---
 permalink: /research/
+layout: single
 title: Nanophotonics and Plasmonics
 author_profile: true
 header:
