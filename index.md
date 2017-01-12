@@ -1,6 +1,5 @@
 ---
-title: About
-layout: home
+layout: single
 author_profile: true
 header:
   overlay_image: assets/images/quantum_beats.png
