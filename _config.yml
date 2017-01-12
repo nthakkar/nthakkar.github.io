@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Niket Thakkar"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Niket Thakkar"
+description              : "Researcher in photonics, plasmonics, and applied math"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,24 +77,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Niket Thakkar"
+  avatar           : "/assets/images/thakkar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Graduate student in applied mathematics at the University of Washington"
+  location         : "Seattle, WA"
+  email            : "thakkar at uw dot edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : niket.h.thakkar
   foursquare       :
-  github           :
+  github           : nthakkar
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : niketthakkar
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
