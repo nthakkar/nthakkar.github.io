@@ -3,8 +3,7 @@ layout: splash
 title: My research
 permalink: /research/
 header:
-  overlay_color: "#000"
-  overlay_image: ../assets/images/quantum_beats.png
+  image: ../assets/images/quantum_beats.png
   overlay_filter: "0.3" # same as adding an opacity of 0.5 to a black background
   caption: "Image credit: [Nipa Eason](https://nipaeason.com)"
 intro: 
