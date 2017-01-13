@@ -7,5 +7,6 @@ author_profile: false
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 {% include figure image_path="/assets/images/niket.jpg" caption="Mt. Kilimanjaro, 2016" %}
+author.email
 
 I am a PhD candidate working in plasmonics and photonics. I'm interested in all sorts of things - this page is underconstruction, and I'll have more to say soon.
