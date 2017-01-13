@@ -9,7 +9,7 @@ permalink: /research/
 ---
 <figure>
 <center> <img src="../assets/images/quantum_beats.png" width="800px" /> </center>
-<figcaption> Image credit: [Nipa Eason](https://nipaeason.com) </figcaption>
+<figcaption> Image credit: <a href="https://nipaeason.com">Nipa Eason</a> </figcaption>
 </figure>
 
 My research focuses on manipulating charge and light at the nanoscale. For a list of my publications, look at my [Google Scholar Profile](https://scholar.google.com/citations?user=Op6vAucAAAAJ&hl=en&oi=ao)
