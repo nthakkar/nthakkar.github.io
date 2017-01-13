@@ -2,6 +2,7 @@
 site.title: #About me
 layout: single
 author_profile: true
+author.name:
 #header:
 #  overlay_color: "#333"
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
