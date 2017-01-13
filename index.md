@@ -6,10 +6,9 @@ author_profile: true
 #  overlay_color: "#333"
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-<!--{% include figure image_path="/assets/images/niket.jpg" caption="Mt. Kilimanjaro, 2016" %}-->
 <figure>
 <center> <img src="/assets/images/niket.jpg" width="500px" /> </center>
-<figcaption>Mt. Kilimanjaro, 2015</figcaption>
+<figcaption>Mt. Kilimanjaro, 2016</figcaption>
 </figure>
 
 I'm a PhD candidate in applied mathematics at the University of Washington in Seattle. I work in the <a href="http://faculty.washington.edu/masiello/Masiello_Group_Website/Home.html">Masiello group</a>, creating theoretical models of light-matter interaction at the nanoscale and using statistical inference to gain insight from optical and electron-beam based experiments. Generally speaking, I'm interested in mathematical modeling and statistics applied to all kinds of problems.
