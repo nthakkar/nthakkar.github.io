@@ -1,13 +1,12 @@
 ---
 title: About me
 layout: single
-author_profile: false
+author_profile: true
 #header:
 #  overlay_color: "#333"
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 {% include figure image_path="/assets/images/niket.jpg" caption="Mt. Kilimanjaro, 2016" %}
-"{{author.email}}"
 {% if author.email %}
         <li>
           <a href="mailto:{{ author.email }}">
