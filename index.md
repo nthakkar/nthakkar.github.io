@@ -1,5 +1,5 @@
 ---
-title: About me
+site.title: #About me
 layout: single
 author_profile: true
 #header:
