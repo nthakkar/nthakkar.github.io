@@ -12,6 +12,6 @@ I'm a PhD candidate in applied mathematics at the University of Washington in Se
 
 When I'm not doing research, I like to play soccer, motorcycle, read, and (sometimes) travel. Having grown up in Arizona, I'm also always on the look out for good Mexican food. Don't hesitate to email me if you have suggestions (or if you want to about math I suppose). 
 
-**I'm currently looking for a job!** Please contact me if you know of anything or you'd like to talk. My resume can be found [here]({{ site.baseurl }}assets/docs/resume.pdf).
+**I'm currently looking for a job!** Please contact me if you know of anything or you'd like to talk. My resume can be found [here](assets/docs/resume.pdf).
 
 
