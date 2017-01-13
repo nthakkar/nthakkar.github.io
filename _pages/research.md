@@ -16,7 +16,7 @@ Microresonators as platforms for nanoscience
 --------------------------------------------
 <!--{% include figure image_path="../assets/images/wgms.png" type="center" %}-->
 <!---![wgms](../assets/images/wgms.png){:width="250px"}-->
-<img src="../assets/images/wgms.png" width="250px" />
+<center> <img src="../assets/images/wgms.png" width="250px" /> </center>
 
 Sample text to explain this
 
