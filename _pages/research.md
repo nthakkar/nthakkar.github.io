@@ -28,6 +28,8 @@ From classical to quantum plasmonics
 ------------------------------------
 <center> <img src="../assets/images/landau.png" width="250px" /> </center>
 
-I've also been interested in understanding 
+I've also been interested in understanding how nanoparticle optical properties change as particles decrease in size and quantum effects become significant. At these small sizes, collective electron oscillations, called plasmons, can easily decay into single electron excitations in a process known as Landau damping. Understanding and manipulating this process would facilitate optical manipulation of individual electrons on extremely small length scales.
+
+I've been focused on understanding how environmental changes, from substrates to the presence of other optical emitters, effect this process, and my model agrees with published experiments. I've just submitted a manuscript on this topic.
 
 
