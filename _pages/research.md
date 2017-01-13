@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My research
+site.title: #My research
 permalink: /research/
 header:
   image: ../assets/images/quantum_beats.png
