@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 site.title: #My research
 permalink: /research/
 header:
