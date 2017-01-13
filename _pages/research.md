@@ -12,7 +12,9 @@ intro:
 ---
 {% include feature_row id="intro" type="center" %}
 
-**Microresonators as platforms for nanoscience**
+Microresonators as platforms for nanoscience
+--------------------------------------------
+
 <figure class="center" style="width:600px">
-<img style="margin:0px auto;display:block" src="../assets/images/wgms.png">
+<img style="margin:300px auto;display:block" src="../assets/images/wgms.png">
 </figure>
