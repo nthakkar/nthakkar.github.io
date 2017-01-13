@@ -13,4 +13,6 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 **Microresonators as platforms for nanoscience**
-{% include figure image_path="../assets/images/wgms.png"%}
+<figure class="center" style="width:300px">
+<img src="../assets/images/wgms.png">
+</figure>
