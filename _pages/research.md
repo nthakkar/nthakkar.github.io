@@ -14,12 +14,13 @@ My research focuses on manipulating charge and light at the nanoscale. For a lis
 
 Microresonators as platforms for nanoscience
 --------------------------------------------
-{% include figure image_path="../assets/images/wgms.png =250x" type="center" %}
+<!--{% include figure image_path="../assets/images/wgms.png" type="center" %}-->
+![wgms](wgms.png){:width="250px"}
 
 Sample text to explain this
 
 From classical to quantum plasmonics
 ------------------------------------
-{% include figure image_path="../assets/images/landau.png =250x" type="center" %}
+{% include figure image_path="../assets/images/landau.png" type="center" %}
 
 Sample text for this section.
