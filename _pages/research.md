@@ -13,21 +13,21 @@ header:
 <figcaption> Image credit: <a href="https://nipaeason.com">Nipa Eason</a> </figcaption>
 </figure>-->
 
-My research focuses on developing mathematical models for manipulating charge and light at the nanoscale. For a comprehensive list of my publications, take a look at my [Google Scholar Profile](https://scholar.google.com/citations?user=Op6vAucAAAAJ&hl=en&oi=ao) On this page, I'll just highlight some projects I've been working on recently.
+My research focuses on developing mathematical models for manipulating charge and light at the nanoscale. For a comprehensive list of my publications, take a look at my [Google Scholar profile](https://scholar.google.com/citations?user=Op6vAucAAAAJ&hl=en&oi=ao). On this page, I'll just highlight some projects I've been working on recently.
 
 Microresonators as platforms for nanoscience
 --------------------------------------------
 <center> <img src="../assets/images/wgms.png" width="500px" /> </center>
 
-I've been working in collaboration with the [Goldsmith group](https://goldsmith.chem.wisc.edu/) at UW Madison on understanding how whispering-gallery-mode-supporting microresonators can be used to make photothermal measurements of the optical properties of nanoscale systems. This work has been featured on [C&E News](http://cen.acs.org/articles/94/i45/Whispering-microresonators-detect-absorption-spectra.html?type=paidArticleContent) and [Nature News and Views](http://www.nature.com/nphoton/journal/v10/n12/full/nphoton.2016.237.html). 
+I've been working in collaboration with the [Goldsmith group](https://goldsmith.chem.wisc.edu/) at UW Madison on understanding how whispering-gallery-mode-supporting microresonators can be used to make photothermal measurements of the optical properties of nanoscale systems and single molecules. This work has been featured on [C&E News](http://cen.acs.org/articles/94/i45/Whispering-microresonators-detect-absorption-spectra.html?type=paidArticleContent) and [Nature News and Views](http://www.nature.com/nphoton/journal/v10/n12/full/nphoton.2016.237.html). 
 
-For this project, I developed a dynamical systems model of the interaction between plasmonic particles and whispering gallery modes that can be used to statistically infer near field properties of this hybrid system from my collaborators' experimental data. As we show in a [Nature Photonics article](http://www.nature.com/nphoton/journal/v10/n12/abs/nphoton.2016.217.html), these interacting systems support so-called Fano resonances, an interesting interference effect.
-
-
+For this project, I developed a dynamical systems model of the interaction between plasmonic particles and whispering gallery modes that can be used to statistically infer near-field properties of this hybrid system from my collaborators' experimental data. As we show in a [Nature Photonics article](http://www.nature.com/nphoton/journal/v10/n12/abs/nphoton.2016.217.html), these interacting systems support so-called Fano resonances, an interesting interference effect that I'm continuing to study.
 
 
 From classical to quantum plasmonics
 ------------------------------------
 <center> <img src="../assets/images/landau.png" width="250px" /> </center>
 
-Sample text for this section.
+I've also been interested in understanding 
+
+
