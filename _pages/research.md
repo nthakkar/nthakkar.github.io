@@ -20,6 +20,6 @@ Sample text to explain this
 
 From classical to quantum plasmonics
 ------------------------------------
-{% include figure image_path="../assets/images/landau.png" type="center" %}
+<!--{% include figure image_path="../assets/images/landau.png" type="center" %}-->
 
 Sample text for this section.
