@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: My research
 permalink: /research/
 header:
@@ -17,4 +17,4 @@ intro:
 <!-- <figure style="width:600px" >
 #<center><img align="middle" src="../assets/images/wgms.png"></center>
 #</figure> -->
-{% include figure image_path="../assets/images/wgms.png" style="width:100px" %}
+{% include figure image_path="../assets/images/wgms.png" type="center" %}
