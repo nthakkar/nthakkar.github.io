@@ -10,7 +10,8 @@ intro:
   - excerpt: "My research focuses on manipulating charge and light at the nanoscale. For a list of my publications, go to my [Google Scholar Profile](https://scholar.google.com/citations?user=Op6vAucAAAAJ&hl=en&oi=ao)"
 ---
 
-{% include feature_row id="intro" type="center" %}
+<!--{% include feature_row id="intro" type="center" %}-->
+"My research focuses on manipulating charge and light at the nanoscale. For a list of my publications, go to my [Google Scholar Profile](https://scholar.google.com/citations?user=Op6vAucAAAAJ&hl=en&oi=ao)
 
 **Microresonators as platforms for nanoscience**
 
