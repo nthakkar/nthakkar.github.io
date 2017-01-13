@@ -2,11 +2,15 @@
 layout: single
 site.title: #My research
 permalink: /research/
-header:
-  image: ../assets/images/quantum_beats.png
-  overlay_filter: "0.3" # same as adding an opacity of 0.5 to a black background
-  caption: "Image credit: [Nipa Eason](https://nipaeason.com)"
+#header:
+#  image: ../assets/images/quantum_beats.png
+#  overlay_filter: "0.3" # same as adding an opacity of 0.5 to a black background
+#  caption: "Image credit: [Nipa Eason](https://nipaeason.com)"
 ---
+<figure>
+<center> <img src="../assets/images/quantum_beats.png" width="800px" /> </center>
+<figcaption> Image credit: [Nipa Eason](https://nipaeason.com) </figcaption>
+</figure>
 
 My research focuses on manipulating charge and light at the nanoscale. For a list of my publications, look at my [Google Scholar Profile](https://scholar.google.com/citations?user=Op6vAucAAAAJ&hl=en&oi=ao)
 
