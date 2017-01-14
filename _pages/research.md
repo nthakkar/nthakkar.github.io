@@ -17,7 +17,7 @@ My research focuses on developing mathematical models for manipulating charge an
 
 Microresonators as platforms for nanoscience
 --------------------------------------------
-<center> <img src="../assets/images/wgms.png" width="500px" /> </center>
+<center> <img src="../assets/images/wgms.png" width="350px" /> </center>
 
 I've been working in collaboration with the [Goldsmith group](https://goldsmith.chem.wisc.edu/) at UW Madison on understanding how whispering-gallery-mode-supporting microresonators can be used to make photothermal measurements of the optical properties of nanoscale systems and single molecules. This work has been featured on [C&E News](http://cen.acs.org/articles/94/i45/Whispering-microresonators-detect-absorption-spectra.html?type=paidArticleContent) and [Nature News and Views](http://www.nature.com/nphoton/journal/v10/n12/full/nphoton.2016.237.html). 
 
@@ -26,7 +26,7 @@ For this project, I developed a dynamical systems model of the interaction betwe
 
 From classical to quantum plasmonics
 ------------------------------------
-<center> <img src="../assets/images/landau.png" width="250px" /> </center>
+<center> <img src="../assets/images/landau.png" width="150px" /> </center>
 
 I've also been interested in understanding how nanoparticle optical properties change as particles decrease in size and quantum effects become significant. At these small sizes, collective electron oscillations, called plasmons, can easily decay into single electron excitations in a process known as Landau damping. Understanding and manipulating this process would facilitate optical manipulation of individual electrons on extremely small length scales.
 
