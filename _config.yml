@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Niket Thakkar"
   avatar           : #"/assets/images/niket.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Graduate student in applied mathematics at the University of Washington"
+  bio              : "Applied mathematician at the University of Washington"
   location         : "Seattle, WA"
   email            : "thakkar@uw.edu"
   uri              :
