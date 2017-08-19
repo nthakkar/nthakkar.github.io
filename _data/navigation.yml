@@ -14,5 +14,8 @@
   # main links links
 
 main:
-  - title: "Nanoscale Optics"
+  - title: "Research"
+    url: /research/
+
+  - title: "Nanoscale optics"
     url: /nanoscale_optics/
