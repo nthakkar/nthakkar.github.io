@@ -14,8 +14,8 @@
   # main links links
 
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Disease modeling"
+    url: /disease_modeling/
 
   - title: "Nanoscale optics"
     url: /nanoscale_optics/

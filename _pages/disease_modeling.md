@@ -1,7 +1,7 @@
 ---
 layout: single
 site.title: #My research
-permalink: /research/
+permalink: /disease_modeling/
 ---
 <!-- Alternative to the header image above 
 <figure>
