@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Niket Thakkar"
 title_separator          : "-"
 name                     : "Niket Thakkar"
-description              : "Researcher in photonics, plasmonics, and applied math"
+description              : "Researcher in applied math"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Niket Thakkar"
   avatar           : #"/assets/images/niket.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "applied mathematician at the University of Washington"
+  bio              : "research scientist at the Institute for Disease Modeling"
   location         : "Seattle, WA"
   email            : "thakkar@uw.edu"
   uri              :
