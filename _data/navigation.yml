@@ -14,6 +14,9 @@
   # main links links
 
 main:
+  - title: "Actual ignorance"
+    url: /actual_ignorance/
+
   - title: "Disease modeling"
     url: /disease_modeling/
 
