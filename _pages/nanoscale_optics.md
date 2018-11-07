@@ -13,7 +13,7 @@ permalink: /nanoscale_optics/
 <figcaption> Image credit: <a href="https://nipaeason.com">Nipa Eason</a> </figcaption>
 </figure>
 
-My graduate school research focused on developing mathematical models for manipulating charge and light at the nanoscale. For a comprehensive list of my publications, take a look at my [Google Scholar profile](https://scholar.google.com/citations?user=Op6vAucAAAAJ&hl=en&oi=ao) or my [CV](../assets/docs/CV.pdf). On this page, I'll just highlight some projects I really enjoyed.
+My graduate school research focused on developing mathematical models for manipulating charge and light at the nanoscale. For a comprehensive list of my publications, take a look at my [Google Scholar profile](https://scholar.google.com/citations?user=4XfFTrEAAAAJ&hl=en&oi=ao) or my [CV](../assets/docs/CV.pdf). On this page, I'll just highlight some projects I really enjoyed.
 
 Microresonators as platforms for nanoscience
 --------------------------------------------
