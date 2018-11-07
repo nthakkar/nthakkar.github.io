@@ -26,7 +26,7 @@ For this project, I developed a dynamical systems model of the interaction betwe
 
 From classical to quantum plasmonics
 ------------------------------------
-<center> <img src="../assets/images/landau.png" width="400px" /> </center>
+<center> <img src="../assets/images/landau.png" width="500px" /> </center>
 
 I also worked on understanding how nanoparticle optical properties change as particles decrease in size and quantum effects become significant. At these small sizes, collective electron oscillations, called plasmons, can easily decay into single electron excitations in a process known as Landau damping. Understanding and manipulating this process would facilitate optical manipulation of individual electrons on extremely small length scales.
 
