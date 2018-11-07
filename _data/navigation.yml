@@ -14,11 +14,11 @@
   # main links links
 
 main:
-  - title: "Actual ignorance"
-    url: /actual_ignorance/
-
   - title: "Disease modeling"
     url: /disease_modeling/
 
   - title: "Nanoscale optics"
     url: /nanoscale_optics/
+
+  - title: "Actual ignorance"
+    url: /actual_ignorance/
