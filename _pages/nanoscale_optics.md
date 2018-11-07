@@ -26,10 +26,10 @@ For this project, I developed a dynamical systems model of the interaction betwe
 
 From classical to quantum plasmonics
 ------------------------------------
-<center> <img src="../assets/images/landau.png" width="200px" /> </center>
+<center> <img src="../assets/images/landau.png" width="400px" /> </center>
 
-I'm also interested in understanding how nanoparticle optical properties change as particles decrease in size and quantum effects become significant. At these small sizes, collective electron oscillations, called plasmons, can easily decay into single electron excitations in a process known as Landau damping. Understanding and manipulating this process would facilitate optical manipulation of individual electrons on extremely small length scales.
+I also worked on understanding how nanoparticle optical properties change as particles decrease in size and quantum effects become significant. At these small sizes, collective electron oscillations, called plasmons, can easily decay into single electron excitations in a process known as Landau damping. Understanding and manipulating this process would facilitate optical manipulation of individual electrons on extremely small length scales.
 
-I've been focused on understanding how environmental changes, from substrates to the presence of other optical emitters, effect this process, and my model agrees with published experiments. We currently have a manuscript on this topic under review, so I'll have more to say soon.
+Modeling how environmental changes, from substrates to the presence of other optical emitters, effect this process is critical to manipulating it. In grad school, I created a model that agrees with published experiments and can be used to predict the optical properties of quantum-sized metal structures. For a detailed look, check out the [Rapid Communications](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.121403) we published. There, you'll find details of the model, comparisons to data, and some general thoughts about nanophotonics.
 
 
