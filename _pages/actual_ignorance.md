@@ -1,7 +1,5 @@
 ---
 layout: single
-site.title: #"actual ignorance"
-site.description: #"Very public learning about statistics, machine learning, and artificial intelligence."
 permalink: /actual_ignorance/
 ---
 
