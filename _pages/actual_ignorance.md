@@ -20,5 +20,5 @@ permalink: /actual_ignorance/
 <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
 {% capture written_year %}{{ year }}{% endcapture %}
 {% endif %}
-{% include single.html %}
+{% include archive-single.html %}
 {% endfor %}
