@@ -9,7 +9,7 @@ permalink: /actual_ignorance/
 <figcaption> Very public learning about statistics, machine learning, and artificial intelligence.  </figcaption>
 </figure>
 
-<!-- Posts -->
+<!-- Posts 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
@@ -19,4 +19,9 @@ permalink: /actual_ignorance/
 {% capture written_year %}{{ year }}{% endcapture %}
 {% endif %}
 {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+<!-- Posts v2 (Manual for more control?) -->
+{% for post in site.posts %}
+{% include archive-single.html %}
+{% endfor %} 
