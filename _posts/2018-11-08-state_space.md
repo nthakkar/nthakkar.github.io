@@ -1,4 +1,5 @@
 ---
+url: https://nthakkar.github.io/state_space/
 title: "Predicting scores with state space models"
 catagories:
   - actual_ignorance
