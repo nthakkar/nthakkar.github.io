@@ -22,6 +22,7 @@ permalink: /actual_ignorance/
 {% endfor %} -->
 
 <!-- Posts v2 (Manual for more control?) -->
+<h2 id="Statistics and basketball" class="archive__subtitle">"Statistics and basketball"</h2>
 {% for post in site.posts %}
 {% include archive-single.html %}
-{% endfor %} 
+{% endfor %}
