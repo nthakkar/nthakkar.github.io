@@ -22,7 +22,9 @@ permalink: /actual_ignorance/
 {% endfor %} -->
 
 <!-- Posts v2 (Manual for more control?) -->
-<h2 id="Statistics and basketball" class="archive__subtitle">"Statistics and basketball"</h2>
-{% for post in site.posts %}
-{% include archive-single.html %}
-{% endfor %}
+
+<!-- Stats and bball section -->
+<h2 id="Statistics and basketball" class="archive__subtitle">Statistics and basketball</h2>
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://nthakkar.github.io/bballref/" rel="permalink">Scraping data off of basketball reference</a>
+</h2>
