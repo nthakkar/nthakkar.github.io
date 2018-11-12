@@ -24,7 +24,7 @@ permalink: /actual_ignorance/
 <!-- Posts v2 (Manual for more control?) -->
 
 <!-- Stats and bball section -->
-<h2 id="Statistics and basketball" class="archive__subtitle">Statistics and basketball</h2>
+<h2 id="basketball header" class="archive__subtitle">Basketball</h2>
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://nthakkar.github.io/state_space/" rel="permalink">Predicting scores with state space models</a>
 </h2>
