@@ -23,6 +23,12 @@ permalink: /actual_ignorance/
 
 <!-- Posts v2 (Manual for more control?) -->
 
+<!-- Epi section -->
+<h2 id="epi header" class="archive__subtitle">Epidemiology</h2>
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://nthakkar.github.io/assets/docs/PAK2018_manuscript.pdf">Decreasing measles burden by optimizing campaign timing (preprint)</a>
+</h2>
+
 <!-- Stats and bball section -->
 <h2 id="basketball header" class="archive__subtitle">Basketball</h2>
 <h2 class="archive__item-title" itemprop="headline">
