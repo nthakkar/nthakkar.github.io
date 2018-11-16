@@ -33,5 +33,5 @@ This post is still under construction.
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://nthakkar.github.io/bballref/" rel="permalink">Scraping data off of basketball reference</a>
 </h2>
-I've been (half-)joking a lot about how [IDM](http://idmod.org) should use its new hardware for sports gambling. That (half-)joke got taken a little further recently: I used [PyQuery](https://pythonhosted.org/pyquery/) to write a web scraper for [basketball-reference.com](https://www.basketball-reference.com/). My fantasy team still sucks this year (seriously, really bad), but this turned into a cool learning experience that's given me some interesting data.
+I've been (sorta) joking a lot about how [IDM](http://idmod.org) should use its new hardware for sports gambling. That (sorta) joke got taken a little further recently: I used [PyQuery](https://pythonhosted.org/pyquery/) to write a web scraper for [basketball-reference.com](https://www.basketball-reference.com/). My fantasy team still sucks this year (seriously, really bad), but this turned into a learning experience that's given me some interesting data so I thought I'd share.
 
