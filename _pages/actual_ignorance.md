@@ -28,7 +28,7 @@ permalink: /actual_ignorance/
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://nthakkar.github.io/assets/docs/PAK2018_manuscript.pdf">Decreasing measles burden by optimizing campaign timing [preprint]</a>
 </h2>
-This is preprint I've submitted to [PNAS](http://www.pnas.org/) detailing how time series modeling can be used to forecast policy outcomes and optimize our measles vaccination strategy in Pakistan. This collaboration with the World Health Organization, the Gates Foundation, and researchers in Pakistan helped motivate a large scale vaccination campaign that happened in October 2018. For more details, check out the [supplement](../assets/docs/PAK2018_supplement.pdf).
+This is preprint I've submitted to [PNAS](http://www.pnas.org/) detailing how time series modeling can be used to forecast policy outcomes and optimize our measles vaccination strategy in Pakistan. This collaboration with the World Health Organization, the Gates Foundation, and researchers in Pakistan helped motivate a large-scale vaccination campaign that happened in October 2018. For more details, check out the [supplement](../assets/docs/PAK2018_supplement.pdf).
 
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://nthakkar.github.io/assets/docs/comment_immuneshadow.pdf">Are there issues with the ecological evidence for measles-induced, long-term immune suppression? [preprint]</a>
