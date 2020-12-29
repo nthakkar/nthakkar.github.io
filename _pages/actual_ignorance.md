@@ -33,7 +33,7 @@ This is preprint I've submitted to [PNAS](http://www.pnas.org/) detailing how ti
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://nthakkar.github.io/assets/docs/comment_immuneshadow.pdf">Are there issues with the ecological evidence for measles-induced, long-term immune suppression? [preprint]</a>
 </h2>
-I was asked by colleagues at [IDM](http://idmod.org) and the Gates Foundation to take a close look at [this paper](http://science.sciencemag.org/content/348/6235/694) which argues that measles infection causes immune system suppression lasting 2 to 3 years, much longer than previously thought. I found some potentially serious mathematical issues, summarized in this comment.
+I was asked by colleagues at [IDM](http://idmod.org) and the Gates Foundation to take a close look at [this paper](http://science.sciencemag.org/content/348/6235/694) which argues that measles infection causes immune system suppression lasting 2 to 3 years, much longer than previously thought. I found some potentially serious mathematical issues, summarized in this comment ([now published](https://science.sciencemag.org/content/365/6449/eaax5552.abstract)).
 
 
 <!-- Stats and bball section -->
