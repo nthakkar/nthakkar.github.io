@@ -14,7 +14,7 @@ permalink: /actual_ignorance/
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://covid.idmod.org/data/Towards_robust_real_time_high_resolution_COVID_19_prevalence_and_incidence_estimation.pdf">Working towards high resolution prevalence estimation</a>
 </h2>
-As we support Washington's pandemic response, I've worked to add detail to our prevalence and incidence estimates. In this report, we describe an approach that works in concert with our transmission model to estimate prevalence in sub-populations (like geographic regions or age groups). This method helps us better understand Washington's current COVID-19 situation while also helping us learn retrospectively about COVID-19 transmission across space and age.
+As we support Washington's pandemic response, I've been trying to add more detail to our prevalence and incidence estimates. In this report, we describe an approach that works in concert with our transmission model to estimate prevalence in sub-populations (like geographic regions or age groups). This method helps us better understand Washington's current COVID-19 situation while also helping us learn retrospectively about COVID-19 transmission across space and age.
 
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://twitter.com/famulare_mike/status/1328858771733454850?s=20">Estimating gathering risk on Thanksgiving 2020</a>
