@@ -6,7 +6,7 @@ permalink: /actual_ignorance/
 <!-- Banner heading -->
 <figure>
 <center> <img src="../assets/images/ai_banner.png" width="800px" /> </center>
-<figcaption> Very public learning about statistics, machine learning, and artificial intelligence.  </figcaption>
+<figcaption> Very public learning about statistics, machine learning, epidemiology, and science in general.  </figcaption>
 </figure>
 
 <!-- Posts 
