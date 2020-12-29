@@ -9,4 +9,4 @@ permalink: /disease_modeling/
 <figcaption> Image credit: <a href="https://nipaeason.com">Nipa Eason</a> </figcaption>
 </figure> -->
 
-This page is going to have some highlights of my work at [IDM](http://idmod.org) soon, but it's still under construction. For a look at some specific disease modeling projects, check out the epidemiology section of [actual ignorance](https://nthakkar.github.io/actual_ignorance/). For a higher level look at my work, see my [Google Scholar profile](https://scholar.google.com/citations?user=4XfFTrEAAAAJ&hl=en&oi=ao) or my [CV](../assets/docs/CV.pdf). 
+This page is going to have some highlights of my work at [IDM](http://idmod.org) soon, but it's still under construction. For a look at some specific disease modeling projects, check out the epidemiology sections of [actual ignorance](https://nthakkar.github.io/actual_ignorance/). For a higher level look at my work, see my [Google Scholar profile](https://scholar.google.com/citations?user=4XfFTrEAAAAJ&hl=en&oi=ao) or my [CV](../assets/docs/CV.pdf). 
