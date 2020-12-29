@@ -7,7 +7,7 @@ author_profile: true
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 <figure>
-<center> <img src="/assets/images/niket_3.jpg" width="400px" /> </center>
+<center> <img src="/assets/images/niket_3.png" width="400px" /> </center>
 <figcaption>I'm still iffy on hiking if I'm being honest, 2020</figcaption>
 </figure>
 
