@@ -24,7 +24,12 @@ permalink: /actual_ignorance/
 <!-- Posts v2 (Manual for more control?) -->
 
 <!-- Epi section -->
-<h2 id="epi header" class="archive__subtitle">Epidemiology</h2>
+<h2 id="epi header" class="archive__subtitle">Measles epidemiology</h2>
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://www.gatesfoundation.org/goalkeepers/report/2020-report/#GlobalPerspective">Measles in the time of COVID-19</a>
+</h2>
+COVID-19 added complexity to decision-making around Ethiopia's March 2020 measles vaccination campaign. I used an updated version of our [time series model for measles](https://www.pnas.org/content/116/22/11069) to forecast different delayed campaign scenarios, which helped motivate stakeholders to move forward with the vaccination campaign in July despite the added risk of COVID-19 transmission. The overall results of this collaboration with other measles modeling groups are nicely summarized in the first inset of 2020's [Goalkeepers](https://www.gatesfoundation.org/goalkeepers/) report.
+
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://www.pnas.org/content/116/22/11069">Decreasing measles burden by optimizing campaign timing</a>
 </h2>
