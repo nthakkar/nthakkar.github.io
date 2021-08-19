@@ -12,7 +12,7 @@ permalink: /actual_ignorance/
 <!-- Posts v2 (Manual for more control?) -->
 <h2 id="covid header" class="archive__subtitle">COVID epidemiology</h2>
 <h2 class="archive__item-title" itemprop="headline">
-	<a href="https://covid.idmod.org/data/Towards_robust_real_time_high_resolution_COVID_19_prevalence_and_incidence_estimation.pdf">Working towards high resolution prevalence estimation</a>
+	<a href="https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Towards_robust_real_time_high_resolution_COVID_19_prevalence_and_incidence_estimation.pdf">Working towards high resolution prevalence estimation</a>
 </h2>
 As we support Washington's pandemic response, I've been trying to add more detail to our prevalence and incidence estimates. In this report, we describe an approach that works in concert with our transmission model to estimate prevalence in sub-populations (like geographic regions or age groups). This method helps us better understand Washington's current COVID-19 situation while also helping us learn retrospectively about COVID-19 transmission across space and age.
 
@@ -22,7 +22,7 @@ As we support Washington's pandemic response, I've been trying to add more detai
 Our COVID transmission model can help us assess the risk of having a COVID positive individual in a random group, and it can help us project COVID burden under different transmission scenarios. I helped create this twitter thread demonstrating both of these use cases in advance of Thanksgiving to help communicate transmission risk.
 
 <h2 class="archive__item-title" itemprop="headline">
-	<a href="https://covid.idmod.org/data/One_state_many_outbreaks.pdf">Estimating COVID prevalence with transmission models</a>
+	<a href="https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/One_state_many_outbreaks.pdf">Estimating COVID prevalence with transmission models</a>
 </h2>
 I helped create a modeling approach (that we call RAINIER, a lengthy backronym that you'll have to email me about) that allows us to quickly fit a compartmental transmission model to COVID-19 time series and age-distribution data. Some of this model's outputs now appear on [Washington's COVID-19 risk assessment dashboard](https://coronavirus.wa.gov/what-you-need-know/covid-19-risk-assessment-dashboard) and in Oregon's modeling reports ([like this one](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Emerging%20Respitory%20Infections/Oregon-COVID-19-Projections-2020-12-18.pdf)). 
 
