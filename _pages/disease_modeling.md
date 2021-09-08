@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 site.title: #My research
 permalink: /disease_modeling/
 ---
