@@ -5,13 +5,13 @@ permalink: /disease_modeling/
 ---
 <!-- Alternative to the header image above --> 
 <figure>
-<center> <img src="../assets/images/measles_time_to_rash.png" width="1100px" /> </center>
+<center> <img src="../assets/images/measles_time_to_rash.png" width="1200px" /> </center>
 <figcaption>Combining epidemiological and statistical principles, in this case to estimate that it takes about 15 days for a rash to show up after you're exposed to measles.</figcaption>
 </figure>
 
-My work at [IDM](http://idmod.org) focuses on combining ideas from classical epidemiology and probability theory to better understand disease transmission, mostly in the measles and COVID contexts. 
+My work at [IDM](http://idmod.org) focuses on combining ideas from probability theory and classical epidemiology to better understand disease transmission, mostly in the measles and COVID contexts. Being at the [Gates Foundation](https://www.gatesfoundation.org/), I’ve placed particular emphasis on scientific communication and advocacy for informed decision-making, and I strive to align my mathematical research program with open questions in vaccine delivery and public health policy.
 
-My plan for this page is to give a general overview of my work at [IDM](http://idmod.org) and where I think it's headed, but it's still under construction. For a look at some specific disease modeling projects, check out the epidemiology sections of [actual ignorance](https://nthakkar.github.io/actual_ignorance/). For a higher level look at my work, see my [Google Scholar profile](https://scholar.google.com/citations?user=4XfFTrEAAAAJ&hl=en&oi=ao) or my [CV](../assets/docs/CV.pdf). 
+On this page I try to give a general overview of my work at [IDM](http://idmod.org) and where I think it's headed. If you're looking for some specific disease modeling projects, check out the epidemiology sections of [actual ignorance](https://nthakkar.github.io/actual_ignorance/). For a more comprehensive look at my work, see my [Google Scholar profile](https://scholar.google.com/citations?user=4XfFTrEAAAAJ&hl=en&oi=ao) or my [CV](../assets/docs/CV.pdf). 
 
 The math and methods side...
 --------------------------------------------
