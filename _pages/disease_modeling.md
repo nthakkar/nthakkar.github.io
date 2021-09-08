@@ -20,7 +20,7 @@ The math and methods perspective
 Speaking as a mathematician, I work on inference and uncertainty quantification in the context of imperfectly observed stochastic processes like disease transmission. Over the last few year, I’ve been developing inference algorithms leveraging classical, nonlinear epidemiological models to estimate disease prevalence, population immunity, transmission rates, and predictive risk with high spatial, temporal, and demographic resolution. 
 <ul>
   <li>One thing I enjoy about these problems is that they involve working with a large variety of data types, including time series, satellite imagery, demographic and serological survey, randomized-control-trial data, and geographic-information-systems data.</li>
-  <li>I've found that algorithm speed is critical to supporting global health since high-performace computing resources aren't available in most places. Towards that goal, I focus on deterministic and approximate approaches, and most models I've developed can go from raw data to estimates in seconds on a laptop.</li>
+  <li>I've found that algorithm speed is critical to supporting global health since high-performance computing resources aren't available in most places. Towards that goal, I focus on deterministic and approximate approaches, and most models I've developed can go from raw data to estimates in seconds on a laptop.</li>
   <li>A key feature of transmission systems is their inherent volatility, and accurately quantifying uncertainty is a (mostly fun) mathematical challenge. Lately, I've been interested in better understanding what the level of uncertainty can teach us about the transmission process, leveraging ideas from statistical physics.</li>
 </ul>
 
@@ -29,4 +29,8 @@ The policy and advocacy perspective
 <center> <img src="../assets/images/prediction_test.png" width="800px" /> </center>
 
 While I think about the math most days, my broader goal is to create tools that help health-care workers deliver vaccines and other treatments. 
-
+<ul>
+  <li>In some cases, like in measles vaccine delivery, this is a predictive modeling problem since we want to vaccinate in advance of outbreaks. As a result, my measles work has largely focused on forecasting.</li>
+  <li>In other contexts, like COVID, mitigation policy needs to be informed by good situational awareness. In this case, my work has focused mainly on descriptive modeling and inference, creating high-resolution estimates of transmission rates and prevalence to give balanced perspective on multiple data sources.</li>
+  <li>In general, decision-making and health-care delivery require a massive collaboration. I create estimates and forecasts to help inform broader conversations that include equally important cultural, historical, and economic considerations. 
+</ul>
