@@ -32,5 +32,5 @@ While I think about the math most days, my broader goal is to create tools that 
 <ul>
   <li>In some cases, like in measles vaccine delivery, this is a predictive modeling problem since we want to vaccinate in advance of outbreaks. As a result, my measles work has largely focused on forecasting.</li>
   <li>In other contexts, like COVID, mitigation policy needs to be informed by good situational awareness. In this case, my work has focused mainly on descriptive modeling and inference, creating high-resolution estimates of transmission rates and prevalence to give balanced perspective on multiple data sources.</li>
-  <li>In general, decision-making and health-care delivery require a massive collaboration. I create estimates and forecasts to help inform broader conversations that include equally important cultural, historical, and economic considerations. 
+  <li>In general, decision-making and health-care delivery require a massive collaboration. I create estimates and forecasts to help inform broader conversations that include equally important cultural, historical, and economic considerations.</li>
 </ul>
