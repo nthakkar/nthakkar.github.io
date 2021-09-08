@@ -5,7 +5,7 @@ permalink: /disease_modeling/
 ---
 <!-- Alternative to the header image above --> 
 <figure>
-<center> <img src="../assets/images/measles_time_to_rash.png" width="800px" /> </center>
+<center> <img src="../assets/images/measles_time_to_rash.png" width="900px" /> </center>
 <figcaption>Combining epidemiological and statistical principles, in this case to estimate that it takes about 15 days for a rash to show up after you're exposed to measles.</figcaption>
 </figure>
 
