@@ -28,7 +28,7 @@ The policy and advocacy perspective
 --------------------------------------------
 <center> <img src="../assets/images/prediction_test.png" width="800px" /> </center>
 
-While I think about the math most days, my broader goal is to create tools that help health-care workers deliver vaccines and other treatments. 
+While I think about the math most days, my broader goal is to create tools that help health-care workers deliver vaccines and other treatments as effectively as possible. 
 <ul>
   <li>In some cases, like in measles vaccine delivery, this is a predictive modeling problem since we want to vaccinate in advance of outbreaks. As a result, my measles work has largely focused on forecasting.</li>
   <li>In other contexts, like COVID, mitigation policy needs to be informed by good situational awareness. In this case, my work has focused mainly on descriptive modeling and inference, creating high-resolution estimates of transmission rates and prevalence to give balanced perspective on multiple data sources.</li>
