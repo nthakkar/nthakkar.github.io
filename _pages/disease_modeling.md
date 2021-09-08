@@ -5,7 +5,7 @@ permalink: /disease_modeling/
 ---
 <!-- Alternative to the header image above --> 
 <figure>
-<center> <img src="../assets/images/measles_time_to_rash.png" width="900px" /> </center>
+<center> <img src="../assets/images/measles_time_to_rash.png" width="1100px" /> </center>
 <figcaption>Combining epidemiological and statistical principles, in this case to estimate that it takes about 15 days for a rash to show up after you're exposed to measles.</figcaption>
 </figure>
 
@@ -15,7 +15,7 @@ My plan for this page is to give a general overview of my work at [IDM](http://i
 
 The math and methods side...
 --------------------------------------------
-<center> <img src="../assets/images/cartoon_tree.png" width="500px" /> </center>
+<center> <img src="../assets/images/cartoon_tree.png" width="600px" /> </center>
 
 I worked in collaboration with the [Goldsmith group](https://goldsmith.chem.wisc.edu/) at UW Madison on understanding how whispering-gallery-mode-supporting microresonators can be used to make photothermal measurements of the optical properties of nanoscale systems and single molecules. This work was featured on [C&E News](http://cen.acs.org/articles/94/i45/Whispering-microresonators-detect-absorption-spectra.html?type=paidArticleContent) and [Nature News and Views](http://www.nature.com/nphoton/journal/v10/n12/full/nphoton.2016.237.html). 
 
@@ -23,7 +23,7 @@ For this project, I developed a dynamical systems model of the interaction betwe
 
 The policy and advocacy side...
 --------------------------------------------
-<center> <img src="../assets/images/prediction_test.png" width="500px" /> </center>
+<center> <img src="../assets/images/prediction_test.png" width="800px" /> </center>
 
 I worked in collaboration with the [Goldsmith group](https://goldsmith.chem.wisc.edu/) at UW Madison on understanding how whispering-gallery-mode-supporting microresonators can be used to make photothermal measurements of the optical properties of nanoscale systems and single molecules. This work was featured on [C&E News](http://cen.acs.org/articles/94/i45/Whispering-microresonators-detect-absorption-spectra.html?type=paidArticleContent) and [Nature News and Views](http://www.nature.com/nphoton/journal/v10/n12/full/nphoton.2016.237.html). 
 
