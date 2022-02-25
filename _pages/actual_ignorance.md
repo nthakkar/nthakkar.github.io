@@ -34,6 +34,11 @@ I've been supporting the Washington Department of Health, in collaboration with 
 <!-- measles Epi section -->
 <h2 id="measles header" class="archive__subtitle">Measles epidemiology</h2>
 <h2 class="archive__item-title" itemprop="headline">
+	<a href="https://arxiv.org/abs/2202.11222">Measles case detection as a dynamic process</a>
+</h2>
+This preprint describes a method for estimating dynamic measles reporting rates using the age distribution of reported measles cases. In the paper, I apply the approach to data from the UK before and after universal healthcare, offering an interesting window into healthcare access changes. For some more perspective on the work, check out this [twitter thread](https://twitter.com/niket_h_thakkar/status/1496916839321915410?s=20&t=lh9qDHOlYc55YfQ2kR9UwA). And if you want to work with the model itself, here's a [github repo](https://github.com/NThakkar-IDM/uk_measles_surveillance). 
+
+<h2 class="archive__item-title" itemprop="headline">
 	<a href="https://www.gatesfoundation.org/goalkeepers/report/2020-report/#GlobalPerspective">Measles in the time of COVID-19</a>
 </h2>
 COVID-19 added complexity to decision-making around Ethiopia's March 2020 measles vaccination campaign. I used an updated version of our [time series model for measles](https://www.pnas.org/content/116/22/11069) to forecast different delayed campaign scenarios, which helped motivate stakeholders to move forward with the vaccination campaign in July despite the added risk of COVID-19 transmission. The overall results of this collaboration with other measles modeling groups are nicely summarized in the first inset of 2020's [Goalkeepers](https://www.gatesfoundation.org/goalkeepers/) report.
