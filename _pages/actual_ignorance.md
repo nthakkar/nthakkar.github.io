@@ -12,6 +12,11 @@ permalink: /actual_ignorance/
 <!-- Posts v2 (Manual for more control?) -->
 <h2 id="covid header" class="archive__subtitle">COVID epidemiology</h2>
 <h2 class="archive__item-title" itemprop="headline">
+	<a href="https://arxiv.org/abs/2205.02150">Situational awareness as epidemiology's statistical mechanics</a>
+</h2>
+This preprint approaches COVID data from Washington with the goal of developing multi-scale connections similar to the connections between classical mechanics and thermodynamics. What that goal leads us to is both a COVID specific signal processing approach for building a transmission model and an equivalent branching process formulation of that same model. Check out this [twitter thread](https://twitter.com/famulare_mike/status/1523590361972584448?s=20&t=y2Iqd0wYqzx9V-Guu1-Dgg) from my coauthor, describing the work from a more epidemiological perspective. And if you want to see some code, here's the associated [github repo](https://github.com/NThakkar-IDM/covid_and_stat_mech). 
+
+<h2 class="archive__item-title" itemprop="headline">
 	<a href="https://iazpvnewgrp01.blob.core.windows.net/source/2021-02/reports/pdf/Towards_robust_real_time_high_resolution_COVID_19_prevalence_and_incidence_estimation.pdf">Working towards high resolution prevalence estimation</a>
 </h2>
 As we support Washington's pandemic response, I've been trying to add more detail to our prevalence and incidence estimates. In this report, we describe an approach that works in concert with our transmission model to estimate prevalence in sub-populations (like geographic regions or age groups). This method helps us better understand Washington's current COVID-19 situation while also helping us learn retrospectively about COVID-19 transmission across space and age.
