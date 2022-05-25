@@ -15,7 +15,7 @@ On this page I try to give a general overview of my work at [IDM](http://idmod.o
 
 The math and methods perspective
 --------------------------------------------
-<center> <img src="../assets/images/cartoon_tree.png" width="600px" /> </center>
+<center> <img src="../assets/images/transmission_chain.png" width="600px" /> </center>
 
 I work on inference and uncertainty quantification in the context of imperfectly observed stochastic processes like disease transmission. Over the last few years, I’ve been developing inference algorithms leveraging classical, nonlinear epidemiological models to estimate disease prevalence, population immunity, transmission rates, and predictive risk with high spatial, temporal, and demographic resolution. 
 <ul>
