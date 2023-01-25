@@ -13,6 +13,6 @@ author_profile: true
 
 I'm a research scientist at the <a href="http://idmod.org">Institute for Disease Modeling</a>, working with a variety of partners in support of measles eradication and Washington state's <a href="https://covid.idmod.org/#/Home">COVID-19 situational awareness</a>. I use mathematical and statistical modeling techniques to understand where better disease surveillance is needed, how best to structure immunization campaigns, and other epidemiology questions. Generally speaking, I'm interested in mathematical modeling and statistics applied to all kinds of problems.
 
-When I'm not doing research, I like to play basketball, cook, read, wood work, (sometimes) run, (sometimes) hike, and (sometimes) travel. Having grown up in Arizona, I'm also always on the look out for good Mexican food. Don't hesitate to email me if you have suggestions. 
+When I'm not doing research, I like to play tennis or basketball, cook, read, draw, (sometimes) run, (sometimes) hike, and (sometimes) travel. Having grown up in Arizona, I'm also always on the look out for good Mexican food. Don't hesitate to email me if you have suggestions. 
 
 
