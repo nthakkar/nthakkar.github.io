@@ -12,6 +12,11 @@ permalink: /actual_ignorance/
 <!-- measles Epi section -->
 <h2 id="measles header" class="archive__subtitle">Measles epidemiology</h2>
 <h2 class="archive__item-title" itemprop="headline">
+	<a href="https://arxiv.org/abs/2405.09664">Seasonality and endemic stability</a>
+</h2>
+This preprint describes some transmission model-inspired statistical tools for analyzing measles time series data. Central to the discussion is the seasonality profile, which we show contains information about the necessary demographic conditions for a transmission process to have a stable average. We use that insight to create measures of susceptibility that are independent of any data on birth rates or vaccination coverage rates. Check out the [codespace](https://github.com/NThakkar-IDM/seasonality) as well, where you can use the tools yourself.
+
+<h2 class="archive__item-title" itemprop="headline">
 	<a href="https://www.mdpi.com/2076-393X/12/3/314">Evaluating vaccination campaigns in Somalia</a>
 </h2>
 This paper gives a short epidemiological analysis of measles in Somalia, a fragile setting recently affected by droughts and severe acute malnutrition. We take a close look at measles vaccination campaigns in the country since 2018, and we use mathematical models to estimate their impact on burden, highlighting the resilience and determination of vaccination efforts in the region. One cool thing about this paper is the breadth of people invovled, spanning the ministry of health, WHO and Gavi, and the Gates Foundation.
