@@ -9,6 +9,33 @@ permalink: /actual_ignorance/
 <figcaption> Very public learning about statistics, machine learning, epidemiology, and science in general.  </figcaption>
 </figure>
 
+<!-- measles Epi section -->
+<h2 id="measles header" class="archive__subtitle">Measles epidemiology</h2>
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://www.mdpi.com/2076-393X/12/3/314">Evaluating vaccination campaigns in Somalia</a>
+</h2>
+This paper gives a short epidemiological analysis of measles in Somalia, a fragile setting recently affected by droughts and severe acute malnutrition. We take a close look at measles vaccination campaigns in the country since 2018, and we use mathematical models to estimate their impact on burden, highlighting the resilience and determination of vaccination efforts in the region. One cool thing about this paper is the breadth of people invovled, spanning the ministry of health, WHO and Gavi, and the Gates Foundation.
+
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://arxiv.org/abs/2202.11222">Measles case detection as a dynamic process</a>
+</h2>
+This preprint describes a method for estimating dynamic measles reporting rates using the age distribution of reported measles cases. In the paper, I apply the approach to data from the UK before and after universal healthcare, offering an interesting window into healthcare access changes. For some more perspective on the work, check out this [twitter thread](https://twitter.com/niket_h_thakkar/status/1496916839321915410?s=20&t=lh9qDHOlYc55YfQ2kR9UwA). And if you want to work with the model itself, here's a [github repo](https://github.com/NThakkar-IDM/uk_measles_surveillance). 
+
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://www.gatesfoundation.org/goalkeepers/report/2020-report/#GlobalPerspective">Measles in the time of COVID-19</a>
+</h2>
+COVID-19 added complexity to decision-making around Ethiopia's March 2020 measles vaccination campaign. I used an updated version of our [time series model for measles](https://www.pnas.org/content/116/22/11069) to forecast different delayed campaign scenarios, which helped motivate stakeholders to move forward with the vaccination campaign in July despite the added risk of COVID-19 transmission. The overall results of this collaboration with other measles modeling groups are nicely summarized in the first inset of 2020's [Goalkeepers](https://www.gatesfoundation.org/goalkeepers/) report.
+
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://www.pnas.org/content/116/22/11069">Decreasing measles burden by optimizing campaign timing</a>
+</h2>
+This paper describes a predictive measles time series model and shows how it can be used to forecast policy outcomes to optimize our measles vaccination strategy in Pakistan. This collaboration with the World Health Organization, the Gates Foundation, and researchers in Pakistan helped motivate a large-scale vaccination campaign that happened in October 2018. 
+
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://nthakkar.github.io/assets/docs/comment_immuneshadow.pdf">Are there issues with the ecological evidence for measles-induced, long-term immune suppression? [preprint]</a>
+</h2>
+I was asked by colleagues at [IDM](http://idmod.org) and the Gates Foundation to take a close look at [this paper](http://science.sciencemag.org/content/348/6235/694) which argues that measles infection causes immune system suppression lasting 2 to 3 years, much longer than previously thought. I found some mathematical issues, summarized in this comment ([now published](https://science.sciencemag.org/content/365/6449/eaax5552.abstract)).
+
 <!-- Posts v2 (Manual for more control?) -->
 <h2 id="covid header" class="archive__subtitle">COVID epidemiology</h2>
 <h2 class="archive__item-title" itemprop="headline">
@@ -35,29 +62,6 @@ I helped create a modeling approach (that we call RAINIER, a lengthy backronym t
 	<a href="https://covid.idmod.org/#/SituationReports">Washington's COVID-19 situation reports</a>
 </h2>
 I've been supporting the Washington Department of Health, in collaboration with researchers from UW, the Hutch, and Microsoft, in their analysis of COVID-19 testing, hospitalization, and mortality data. This work leverages a combination of transmission model-based estimates with more direct data visualization. We reguraly publish our findings in short reports that are used to help inform Washington's pandemic response. 
-
-<!-- measles Epi section -->
-<h2 id="measles header" class="archive__subtitle">Measles epidemiology</h2>
-<h2 class="archive__item-title" itemprop="headline">
-	<a href="https://arxiv.org/abs/2202.11222">Measles case detection as a dynamic process</a>
-</h2>
-This preprint describes a method for estimating dynamic measles reporting rates using the age distribution of reported measles cases. In the paper, I apply the approach to data from the UK before and after universal healthcare, offering an interesting window into healthcare access changes. For some more perspective on the work, check out this [twitter thread](https://twitter.com/niket_h_thakkar/status/1496916839321915410?s=20&t=lh9qDHOlYc55YfQ2kR9UwA). And if you want to work with the model itself, here's a [github repo](https://github.com/NThakkar-IDM/uk_measles_surveillance). 
-
-<h2 class="archive__item-title" itemprop="headline">
-	<a href="https://www.gatesfoundation.org/goalkeepers/report/2020-report/#GlobalPerspective">Measles in the time of COVID-19</a>
-</h2>
-COVID-19 added complexity to decision-making around Ethiopia's March 2020 measles vaccination campaign. I used an updated version of our [time series model for measles](https://www.pnas.org/content/116/22/11069) to forecast different delayed campaign scenarios, which helped motivate stakeholders to move forward with the vaccination campaign in July despite the added risk of COVID-19 transmission. The overall results of this collaboration with other measles modeling groups are nicely summarized in the first inset of 2020's [Goalkeepers](https://www.gatesfoundation.org/goalkeepers/) report.
-
-<h2 class="archive__item-title" itemprop="headline">
-	<a href="https://www.pnas.org/content/116/22/11069">Decreasing measles burden by optimizing campaign timing</a>
-</h2>
-This paper describes a predictive measles time series model and shows how it can be used to forecast policy outcomes to optimize our measles vaccination strategy in Pakistan. This collaboration with the World Health Organization, the Gates Foundation, and researchers in Pakistan helped motivate a large-scale vaccination campaign that happened in October 2018. 
-
-<h2 class="archive__item-title" itemprop="headline">
-	<a href="https://nthakkar.github.io/assets/docs/comment_immuneshadow.pdf">Are there issues with the ecological evidence for measles-induced, long-term immune suppression? [preprint]</a>
-</h2>
-I was asked by colleagues at [IDM](http://idmod.org) and the Gates Foundation to take a close look at [this paper](http://science.sciencemag.org/content/348/6235/694) which argues that measles infection causes immune system suppression lasting 2 to 3 years, much longer than previously thought. I found some mathematical issues, summarized in this comment ([now published](https://science.sciencemag.org/content/365/6449/eaax5552.abstract)).
-
 
 <!-- Stats and bball section -->
 <h2 id="basketball header" class="archive__subtitle">Basketball</h2>
