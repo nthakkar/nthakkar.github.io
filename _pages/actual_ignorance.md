@@ -14,7 +14,7 @@ permalink: /actual_ignorance/
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://youtu.be/KJ7AwVr-fZM">May 2024 CDC GID Seminar</a>
 </h2>
-I gave a seminar at US CDC's Global Immunization Division on how we use transmission models to forecast risk and support vaccination campaigns. In the talk, which kicked off a 2 day workshop, I tried to focus on some of the broader lessons we learn in that process, and how that highlights open epdemiological questions as well as opportunities to create more impactful interventions.
+I gave a seminar at US CDC's Global Immunization Division on how we use transmission models to forecast risk and support vaccination campaigns. In the talk, which kicked off a 2 day workshop, I tried to focus on some of the broader lessons we learn in that process, and how that highlights open scientific questions as well as opportunities to create more impactful interventions.
 
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://arxiv.org/abs/2405.09664">Seasonality and endemic stability</a>
