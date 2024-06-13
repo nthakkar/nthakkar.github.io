@@ -12,6 +12,11 @@ permalink: /actual_ignorance/
 <!-- measles Epi section -->
 <h2 id="measles header" class="archive__subtitle">Measles epidemiology</h2>
 <h2 class="archive__item-title" itemprop="headline">
+	<a href="https://youtu.be/KJ7AwVr-fZM">May 2024 CDC GID Seminar</a>
+</h2>
+I gave a seminar at US CDC's Global Immunization Division on how we use transmission models to forecast risk and support vaccination campaigns. In the talk, which kicked off a 2 day workshop, I tried to focus on some of the broader lessons we learn in that process, and how that highlights open epdemiological questions as well as opportunities to create more impactful interventions.
+
+<h2 class="archive__item-title" itemprop="headline">
 	<a href="https://arxiv.org/abs/2405.09664">Seasonality and endemic stability</a>
 </h2>
 This preprint describes some transmission model-inspired statistical tools for analyzing measles time series data. Central to the discussion is the seasonality profile, which we show contains information about the necessary demographic conditions for a transmission process to have a stable average. We use that insight to create measures of susceptibility that are independent of any data on birth rates or vaccination coverage rates. Check out the [codespace](https://github.com/NThakkar-IDM/seasonality) as well, where you can use the tools yourself.
