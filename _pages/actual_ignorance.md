@@ -12,6 +12,11 @@ permalink: /actual_ignorance/
 <!-- measles Epi section -->
 <h2 id="measles header" class="archive__subtitle">Measles epidemiology</h2>
 <h2 class="archive__item-title" itemprop="headline">
+	<a href="https://youtu.be/e9BT-2NeSeU">November 2025 Ahmedabad U. Seminar</a>
+</h2>
+I gave a seminar at AU's Bagchi School of Public Health, focused on methods to quantify the impact of vaccination campaigns. The talk highlights some connections to ecology, specifically mark and recapture methods, which is a new research direction for me.
+
+<h2 class="archive__item-title" itemprop="headline">
 	<a href="https://youtu.be/KJ7AwVr-fZM">May 2024 CDC GID Seminar</a>
 </h2>
 I gave a seminar at US CDC's Global Immunization Division on how we use transmission models to forecast risk and support vaccination campaigns. In the talk, which kicked off a 2 day workshop, I tried to focus on some of the broader lessons we learn in that process, and how that highlights open scientific questions as well as opportunities to create more impactful interventions.
