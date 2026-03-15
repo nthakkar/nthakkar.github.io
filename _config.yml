@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Niket Thakkar"
   avatar           : #"/assets/images/niket.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "research scientist at the Institute for Disease Modeling"
+  bio              : "research scientist at the Gates Foundation"
   location         : "Seattle, WA"
   email            : "niket.thakkar@gatesfoundation.org"
   uri              :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : niket_h_thakkar
+  twitter          : #niket_h_thakkar
   vine             :
   weibo            :
   xing             :
