@@ -12,9 +12,19 @@ permalink: /actual_ignorance/
 <!-- measles Epi section -->
 <h2 id="measles header" class="archive__subtitle">Measles epidemiology</h2>
 <h2 class="archive__item-title" itemprop="headline">
+	<a href="https://verixiv.org/articles/3-7">Mark and recapture coverage estimates</a>
+</h2>
+This preprint describes a mark and recapture perspective on the 2023 measles vaccination campaign in Kano, with RI as the metaphorical mark and the campaign as the recapture. Thinking of the campaign as a measurement of RI coverage offers insight into campaign quality.
+
+<h2 class="archive__item-title" itemprop="headline">
 	<a href="https://youtu.be/e9BT-2NeSeU">November 2025 Ahmedabad U. Seminar</a>
 </h2>
 I gave a seminar at AU's Bagchi School of Public Health, focused on methods to quantify the impact of vaccination campaigns. The talk highlights some connections to ecology, specifically mark and recapture methods, which is a new research direction for me.
+
+<h2 class="archive__item-title" itemprop="headline">
+	<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341016">Age-targeted vaccination in S. Nigeria</a>
+</h2>
+This paper is about using our signal processing models to compare the 2019 age-targeted intensification of RI to conventional measles campaigns in Southern Nigeria. We find that vaccine directed at that age group is more likely to reach children before measles virus does, and it suggests a high-frequency, small-age-window vaccination strategy might be better in some settings. This paper is also a main focus of the SACEMA policy modeling fellowship, which I've been supporting.
 
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://youtu.be/KJ7AwVr-fZM">May 2024 CDC GID Seminar</a>
@@ -80,10 +90,10 @@ I've been supporting the Washington Department of Health, in collaboration with 
 
 <!-- Stats and bball section -->
 <h2 id="basketball header" class="archive__subtitle">Basketball</h2>
-<h2 class="archive__item-title" itemprop="headline">
+<!---<h2 class="archive__item-title" itemprop="headline">
 	<a href="https://nthakkar.github.io/state_space/" rel="permalink">Predicting scores with state space models</a>
 </h2>
-This post is still under construction.
+This post is still under construction. -->
 
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://nthakkar.github.io/bballref/" rel="permalink">Scraping data off of basketball reference</a>
