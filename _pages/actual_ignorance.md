@@ -24,7 +24,7 @@ I gave a seminar at AU's Bagchi School of Public Health, focused on methods to q
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341016">Age-targeted vaccination in S. Nigeria</a>
 </h2>
-This paper is about using our signal processing models to compare the 2019 age-targeted intensification of RI to conventional measles campaigns in Southern Nigeria. We find that vaccine directed at that age group is more likely to reach children before measles virus does, and it suggests a high-frequency, small-age-window vaccination strategy might be better in some settings. This paper is also a main focus of the SACEMA policy modeling fellowship, which I've been supporting.
+This paper is about using our signal processing models to compare the 2019 age-targeted intensification of RI to conventional measles campaigns in Southern Nigeria. We find that vaccine directed at that age group is more likely to reach children before measles virus does, and it suggests a high-frequency, small-age-window vaccination strategy might be better in some settings. This paper is also a main focus of the [SACEMA policy modeling fellowship](https://gcgh.grandchallenges.org/grant/measles-and-polio-risk-modeling-africa), which I've been supporting.
 
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://youtu.be/KJ7AwVr-fZM">May 2024 CDC GID Seminar</a>
