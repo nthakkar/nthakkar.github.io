@@ -14,7 +14,7 @@ permalink: /actual_ignorance/
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://verixiv.org/articles/3-7">Mark and recapture coverage estimates</a>
 </h2>
-This preprint describes a mark and recapture perspective on the 2023 measles vaccination campaign in Kano, with RI as the metaphorical mark and the campaign as the recapture. Thinking of the campaign as a measurement of RI coverage offers insight into campaign quality.
+This preprint describes a mark and recapture perspective on the 2023 measles vaccination campaign in Kano, with RI as the metaphorical mark and the campaign as the recapture. Thinking of the campaign as a measurement of RI coverage offers insight into campaign quality, and in this case it exposes gaps in campaign coverage.
 
 <h2 class="archive__item-title" itemprop="headline">
 	<a href="https://youtu.be/e9BT-2NeSeU">November 2025 Ahmedabad U. Seminar</a>
